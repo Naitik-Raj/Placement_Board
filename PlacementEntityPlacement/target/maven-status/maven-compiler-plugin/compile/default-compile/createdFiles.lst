@@ -1,0 +1,6 @@
+com\example\service\PlacementServiceImpl.class
+com\example\controller\PlacementController.class
+com\example\PlacementEntityPlacementApplication.class
+com\example\service\PlacementService.class
+com\example\entity\Placement.class
+com\example\repository\PlacementRepository.class
